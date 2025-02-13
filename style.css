@@ -1,0 +1,35 @@
+.mizo-bai {
+    color: hwb(150 0% 0%);
+    background-color: hwb(322 8% 22%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
+}
+
+.chiroti {
+            color: hwb(150 0% 0%);
+            background-color: hwb(322 8% 22%);
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 30px;
+            font-weight: 200;
+            text-align: center;
+}
+
+.francesinha {
+        color: hwb(150 0% 0%);
+        background-color: hwb(322 8% 22%);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 30px;
+        font-weight: 200;
+        text-align: center;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+#odin {
+    color: hwb(0 0% 0%);
+}
